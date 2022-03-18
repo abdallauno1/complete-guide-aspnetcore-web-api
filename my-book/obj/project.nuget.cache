@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "adYKDatHzCjgsjHQfImWC7Q0HRreleMBddyd/5AUk4rCvHsy3pNMxweHhVKSbpLz+i0/PQXDLb3wMnEcCKwICg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mabdalla\\Downloads\\webapi\\my-book\\my-book\\my-book\\my-book.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mabdalla\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
